@@ -203,7 +203,7 @@ Cross.call("gisiframe", "mapControl", {
 		- layerid：图层id,"renderZone":3d.renderZones;"zoneRenderPoint":3d.renderNumber;"zoneRenderLabel":3d.renderLabel
 		- tpl：模板名称
 		- data：填充pop模板的json对象，不同的模板传入的值不同
-		- offset：xy的便宜两数组
+		- offset：xy的偏移两数组
 		- direction：pop框固定的位置，上下左右
 		- width：宽度
 		- height：高度
